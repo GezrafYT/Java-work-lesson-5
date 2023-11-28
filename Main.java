@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 
-public class Program
+public class Main
 {
     public static void problemOne()
     {
